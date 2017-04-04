@@ -1,2 +1,2 @@
-主干
-分支
+master
+branch
